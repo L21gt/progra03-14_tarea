@@ -54,7 +54,7 @@ En la parte inferior del programa, registra el resultArray en la consola.
 Coloca en mayusculas la matriz resultArray y juntalos como una cadena. Declara una variable resultString que une nuestro trabajo en resultArray en una sola cadena y pone en mayusculas todas las letras.
 
 ## Tarea 14:
-Ingresa la frase "Ya Doli con el padre han encontrado a su querido hijo", la traduccion deberia ser: AOIOEEAAEEOAOAUUUUEEIOIO
+Ingresa la frase "Ya Doli con el padre han encontrado a su querido hijo", la traduccion deberia ser: AOIOEEAEEAEEOAOAUUUUEEIOIO
 
 ## Tarea 15:
 Si has obtenido la respuesta, copia tu codigo en una IA y pregunta por mejoras, mejorar la legibilidad, hacerlo mas eficiente...
